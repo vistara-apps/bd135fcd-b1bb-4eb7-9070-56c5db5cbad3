@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "Schedulr",
+    "subtitle": "Built with Zara",
+    "description": "Schedulr is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://bd135fcdb1bb4eb7907056c5db5cbad3-e5pf.vercel.app",
+    "splashImageUrl": "https://bd135fcdb1bb4eb7907056c5db5cbad3-e5pf.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://bd135fcdb1bb4eb7907056c5db5cbad3-e5pf.vercel.app/image.png",
+    "tagline": "Schedulr",
+    "screenshotUrls": [
+      "https://bd135fcdb1bb4eb7907056c5db5cbad3-e5pf.vercel.app/screenshot.png",
+      "https://bd135fcdb1bb4eb7907056c5db5cbad3-e5pf.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://bd135fcdb1bb4eb7907056c5db5cbad3-e5pf.vercel.app/api/webhook"
+  }
+}

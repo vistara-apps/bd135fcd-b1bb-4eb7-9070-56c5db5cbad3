@@ -1,0 +1,14 @@
+{
+  "name": "Schedulr",
+  "description": "Schedulr is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://bd135fcd-b1bb-4eb7-9070-56c5db5cbad3.vercel.app",
+  "properties": {
+    "app": {
+      "name": "Schedulr",
+      "description": "Schedulr is a Base Mini App built with Zara.",
+      "url": "https://bd135fcd-b1bb-4eb7-9070-56c5db5cbad3.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
