@@ -1,12 +1,6 @@
 'use client';
 
-import { useMiniKit } from '@coinbase/minikit';
-
 export function WelcomeHeader() {
-  const { context } = useMiniKit();
-  
-  const displayName = context?.user?.displayName || 'Friend';
-
   return (
     <div className="text-center space-y-4 animate-fade-in">
       <div className="space-y-2">
@@ -14,7 +8,7 @@ export function WelcomeHeader() {
           Welcome to Schedulr
         </h1>
         <p className="text-base font-normal leading-7 text-muted-foreground max-w-2xl mx-auto">
-          Hey {displayName}! Find niche services, coordinate group events, and never miss an appointment again.
+          Find niche services, coordinate group events, and never miss an appointment again.
         </p>
       </div>
       
